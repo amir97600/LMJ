@@ -1,0 +1,10 @@
+.Panier {
+  align-items: start;
+  padding: 32px;
+  width: 600px;
+  background-color: #31b572;
+}
+.white {
+  background-color: white;
+  width: 600px;
+}

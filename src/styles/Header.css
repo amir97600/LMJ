@@ -1,0 +1,14 @@
+.Header {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  padding: 32px;
+  border-bottom: solid 3px #31b572;
+}
+h1 {
+  text-align: center;
+  background-color: #31b572;
+}
+.lmj-logo {
+  width: 42px;
+}

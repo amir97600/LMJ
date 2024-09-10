@@ -1,0 +1,11 @@
+.lmj-plant-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 32px;
+  justify-content: center;
+}
+
+.Shopping-list-container {
+  width: 100%;
+}
